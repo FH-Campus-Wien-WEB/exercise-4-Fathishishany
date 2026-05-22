@@ -12,5 +12,12 @@
     "_comment": "Das Passwort für 'jane' ist '345'",
     "firstName": "Jane",
     "lastName": "Doe"
+  },
+  "fathi": {
+    "username": "fathi",
+    "password": "$2b$10$lBWSK9.BXQwQnwk3RgEj6.a/EAjaLKjvBtR/Mdq6OauuEmZL/K0la",
+    "_comment": "Das Passwort für 'fathi' ist '123'",
+    "firstName": "Fathi",
+    "lastName": "Shishany"
   }
 }
